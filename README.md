@@ -10,3 +10,5 @@ Está basado en el diseño del Tutorial UML que incluye [MagicDraw](https://www.
 
 - Está organizado como un proyecto [Gradle](https://gradle.org/) e incluye el gradle wrapper, aunque para las prácticas no será obligatorio utilizarlo
 
+
+ESTOY HACIENDO PRUEBAS CON MI PRIMER REPOSITORIO REMOTO
